@@ -1,5 +1,5 @@
 # 42cursus
-Projects made to complete the 42 school
+These are the projects I coded to complete the 42 school.
 
 | Project  | Description  |  Status |
 |----------|--------------|---------|
