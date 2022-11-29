@@ -1,4 +1,6 @@
 # 42cursus
+
+42 is a computer programming school based on peer-learning and hands-on projects, without teachers or classes.
 These are the projects I coded to complete the 42 school.
 
 | Project  | Description  |  Status |
