@@ -13,3 +13,4 @@
 | [get_next_line](https://github.com/coale/get_next_line)  | A function that reads one line of a text file.<br> Repeated calls read the following lines | [![aconta's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/project/2853285)](https://github.com/JaeSeoKim/badge42) |
 | [Pipex](https://github.com/coale/pipex)|A C program that behaves the same as the shell command: <br>`< file1 cmd1 \| cmd2 > file2` |[![aconta's 42 pipex Score](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/project/2952706)](https://github.com/JaeSeoKim/badge42)|
 | so_long|A small 2D game |[![aconta's 42 so_long Score](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/project/3003705)](https://github.com/JaeSeoKim/badge42)|
+|Exam Rank 02|The first exam of the 42cursus|[![aconta's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/project/3036633)](https://github.com/JaeSeoKim/badge42)|
