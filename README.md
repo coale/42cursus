@@ -2,8 +2,8 @@
 
 [![aconta's 42 stats](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
-## 42 is a computer programming school based on peer-learning and hands-on projects, without teachers or classes.<br>
-## These are the projects I coded to complete the 42 school.
+### 42 is a computer programming school based on peer-learning and hands-on projects, without teachers or classes.<br>
+### These are the projects I coded to complete the 42 school.
 
 | Project  | Description  |  Status |
 |----------|--------------|---------|
