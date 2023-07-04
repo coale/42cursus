@@ -15,3 +15,4 @@
 | [so_long](https://github.com/coale/so_long)|A small 2D game |[![aconta's 42 so_long Score](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/project/3003705)](https://github.com/JaeSeoKim/badge42)|
 |Exam Rank 02|The first exam of the 42cursus|[![aconta's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/project/3036633)](https://github.com/JaeSeoKim/badge42)|
 |[push_swap](https://github.com/coale/push_swap)|A project designed to learn sorting algorithms|[![aconta's 42 push_swap Score](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/project/3051590)](https://github.com/JaeSeoKim/badge42)|
+|[Philosophers](https://github.com/coale/Philosophers)|A multithreaded solution to the dining philosophers problem |[![aconta's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/project/3118360)](https://github.com/JaeSeoKim/badge42)|
